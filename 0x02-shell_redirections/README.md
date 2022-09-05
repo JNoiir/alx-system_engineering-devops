@@ -1,0 +1,1 @@
+shell code and redirections
